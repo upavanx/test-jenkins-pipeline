@@ -1,4 +1,4 @@
-apiVersion: v2
+apiVersion: 
 appVersion: 
 description: A Helm chart for deploying Edge Video Analytics Microservice and Mosquitto Server in k8s
 name: evam
