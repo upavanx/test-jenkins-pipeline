@@ -1,7 +1,7 @@
 apiVersion: v2
 
 description: 
-name: evam
+name: 
 type: application
 version: 2022.2.0
 
